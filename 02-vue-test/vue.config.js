@@ -3,7 +3,7 @@ module.exports = {
     index: {
       // 入口
       entry: 'src/main.js'
-    },
-    lintOnSave:false
-  }
+    }  
+  },
+  lintOnSave: false
 }
