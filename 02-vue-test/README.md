@@ -272,7 +272,7 @@
 
 1. 作用：在插入、更新或移除 DOM元素时，在合适的时候给元素添加样式类名。
 
-2. 图示：<img src="https://img04.sogoucdn.com/app/a/100520146/5990c1dff7dc7a8fb3b34b4462bd0105" style="width:60%" />
+2. 图示：<img src="https://cn.vuejs.org/images/transition.png" style="width:60%" />
 
 3. 写法：
 
